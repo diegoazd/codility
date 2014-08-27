@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codility.min.absolute.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-08-27T01:27:45" hostname="MacBook-Pro-de-Diego-2.local" time="0.022">
+  <properties/>
+  <testcase name="shouldGetResult" classname="com.codility.min.absolute.SolutionTest" time="0.022"/>
+  <system-out><![CDATA[2
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
