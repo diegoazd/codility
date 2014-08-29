@@ -1,0 +1,5 @@
+# gradle builds
+build
+
+# gradle dependencies
+.gradle
